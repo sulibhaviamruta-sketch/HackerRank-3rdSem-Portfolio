@@ -1,14 +1,26 @@
-HackerRank-3rdSem-Portfolio
-A collection of HackerRank algorithmic problem-solving solutions completed as part of the 3rd Semester B.Tech Computer Science & Engineering portfolio activity. Git hub link https://github.com/bhavanahr622-glitch/HackerRank-3rdSem-Portfolio.git
+Student Name: Amruta Sulibhavi
+Semester: 3rd Semester
+Branch: Computer Science & Engineering
 
-Hacker rank link: https://www.hackerrank.com/profile/bhavanahr622
+GitHub Repository
 
-Problem	Topic	Time Complexity	Space Complexity
-Diagonal Difference	2D Arrays/Matrices	O(N)	O(1)
-Dynamic Array	Data Structures/Vectors	O(N+Q)	O(N)
-Time Conversion	Strings & Logic	O(1)	O(1)
-Compare the Triplets	Basic Implementation	O(1)	O(1)
-Sparse Arrays	Hash Maps/Strings	O(N+Q)	O(N)
+https://github.com/sulibhaviamruta-sketch/HackerRank-3rdSem-Portfolio
+
+HackerRank Profile
+
+https://www.hackerrank.com/profile/sulibhaviamruta
+
+Achievement
+
+Problem Solving — 3★
+
+Problems Completed
+No.	Problem	Topic
+1	Diagonal Difference	2D Arrays / Matrices
+2	Dynamic Array	Data Structures / Vectors
+3	Time Conversion	Strings & Logic
+4	Compare the Triplets	Basic Implementation
+5	Sparse Arrays	Hash Maps / Strings
 ## Screenshots
 
 ### HackerRank 3-Star Badge
